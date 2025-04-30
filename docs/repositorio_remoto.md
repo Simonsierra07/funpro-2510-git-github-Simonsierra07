@@ -13,3 +13,5 @@ Subir archivos al repositorio remoto:
 Copiar
 git push -u origin main
 Y listo, ya está sincronizado. Para futuros cambios, usa git add ., git commit -m "mensaje", y git push origin main.
+
+![image](https://github.com/user-attachments/assets/a80b2f2f-a236-4e34-9e72-48928f1576d4)
