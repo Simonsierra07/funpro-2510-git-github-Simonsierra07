@@ -9,3 +9,5 @@ Usas touch para crear archivos vacíos. Por ejemplo, touch archivo.txt crea un a
 Con rm puedes borrar archivos. Si quieres borrar una carpeta, usas rm -r (pero ten cuidado, borra todo dentro de la carpeta).
 
 Ver dónde estás: Usas pwd para saber en qué carpeta estás trabajando.
+
+![image](https://github.com/user-attachments/assets/d328d37f-085c-4341-812b-6b5f0df8b6f7)
